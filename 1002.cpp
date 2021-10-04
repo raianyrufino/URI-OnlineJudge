@@ -10,7 +10,7 @@ main ()
 	
 	
 	
-	printf("A=%.4lf\n", ( (x*x) * 3.14159));
+	printf("A=%.4lf\n", ( (x * x) * 3.14159));
 	
- system ("PAUSE");
+ system ("pause");
 }
