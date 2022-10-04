@@ -29,7 +29,6 @@ while True:
         soma = 0
         for maior in mais_altos:
             soma += (maior* maior)
-        
         print(soma)
         
     except EOFError:
