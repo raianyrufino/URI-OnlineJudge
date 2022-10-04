@@ -5,6 +5,7 @@ while y <= x:
 
 soma = 0
 cont = 0
+
 for i in range(x,1000):
   soma +=i
   cont += 1
